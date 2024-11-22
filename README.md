@@ -26,7 +26,6 @@ Drop the object into the placement zone.
 Maintain the rule: Only one object can remain in the zone!
 
 ## 🖼 Gameplay Showcase
-Take a look at some visuals from the game in action:
 ![image](https://github.com/user-attachments/assets/0ce1c038-b7ce-4d48-a063-2e6429b13085)
 ![image](https://github.com/user-attachments/assets/188d5778-7a39-4f90-bbae-d0e26ee1c551)
 ![image](https://github.com/user-attachments/assets/d8bb016e-3cbf-4730-9b74-007768702984)
