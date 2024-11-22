@@ -32,7 +32,7 @@ Take a look at some visuals from the game in action:
 ![image](https://github.com/user-attachments/assets/86389c60-7974-48e4-8288-6cb5d54fcaac)
 
 ## ✨ Technical Details
-Unity Version: Unity 2022.3.31f
-Assets Used: Low-Poly Objects Pack (Purchased on November 22, 2024)
-Design Elements: Minimalist skybox and plane colors for a clean, modern look.
+1. Unity Version: Unity 2022.3.31f
+2. Assets Used: Low-Poly Objects Pack (Purchased on November 22, 2024)
+3. Design Elements: Minimalist skybox and plane colors for a clean, modern look.
 
