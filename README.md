@@ -1,1 +1,1 @@
-# bakircay-2024-gd-200601017
+https://youtu.be/v-c1THhnDjs
